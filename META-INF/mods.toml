@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="LGPLv3"
+issueTrackerURL="https://discord.gg/CZQthZJjPc"
+
+[[mods]]
+	modId="hopobettermineshaft"
+	version="${file.jarVersion}"
+	displayName="Hopo Better Mineshaft"
+	credits="Thanks to all my friends that support me"
+	authors="Hoponopono"
+	description="Explore new mineshafts"
+	logoFile="icon.png"
+    displayURL="https://discord.gg/CZQthZJjPc"
+
+[[dependencies.hopobettermineshaft]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2,1.19)"
+
+[[dependencies.hopobettermineshaft]]
+    modId="forge"
+    mandatory=true
+    versionRange="[40.0.8,)"
