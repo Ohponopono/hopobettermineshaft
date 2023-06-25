@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:meadow",
+        {"id": "terralith:ancient_sands", "required": false},
+        {"id": "terralith:ice_marsh", "required": false},
+        {"id": "terralith:mountain_steppe", "required": false},
+        {"id": "terralith:painted_mountains", "required": false},
+        {"id": "terralith:rocky_mountains", "required": false},
+        {"id": "terralith:stony_spires", "required": false}
+    ]
+}
